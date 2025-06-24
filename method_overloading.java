@@ -17,7 +17,7 @@ public class method_overloading {
 	
 	
 	static void tellJoke() {
-		System.out.println("i invented a joke ha ha ha");
+		System.out.println("i invented a joke");
 	}
 	
 	static void change(int a) {
